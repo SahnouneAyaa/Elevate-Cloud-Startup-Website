@@ -52,7 +52,7 @@ const AboutSectionTwo = () => {
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Get peace of mind with round-the-clock technical support from
-                  our team of cloud specialists. We're here to help you
+                  our team of cloud specialists. We&#39;re here to help you
                   succeed, whenever you need us.
                 </p>
               </div>

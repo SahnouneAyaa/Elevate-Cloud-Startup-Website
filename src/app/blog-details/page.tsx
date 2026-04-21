@@ -103,7 +103,7 @@ const BlogDetailsPage = () => {
                 </div>
                 <div>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    In today's rapidly evolving digital landscape, effective **cloud cost optimization** is crucial for businesses seeking to maximize their return on investment. Many organizations adopt cloud services without a clear strategy for managing expenses, leading to unforeseen budgetary challenges. This article explores key methodologies and practical steps you can implement to ensure your cloud infrastructure is both efficient and cost-effective.
+                    In today&#39;s rapidly evolving digital landscape, effective cloud cost optimization is crucial for businesses seeking to maximize their return on investment. Many organizations adopt cloud services without a clear strategy for managing expenses, leading to unforeseen budgetary challenges. This article explores key methodologies and practical steps you can implement to ensure your cloud infrastructure is both efficient and cost-effective.
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded-sm">
                     <div className="relative aspect-97/60 w-full sm:aspect-97/44">
@@ -116,14 +116,14 @@ const BlogDetailsPage = () => {
                     </div>
                   </div>
                   <p className="text-body-color mb-8 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Understanding your cloud spend begins with detailed **resource monitoring** and analysis. Tools provided by major cloud providers offer insights into usage patterns, allowing you to identify underutilized resources or inefficient configurations. Implementing **right-sizing** strategies—matching resource capacity to actual demand—is a powerful way to reduce unnecessary expenditure. This often involves analyzing CPU, memory, and network usage to scale services appropriately, preventing both over-provisioning and performance bottlenecks.
+                    Understanding your cloud spend begins with detailed resource monitoring and analysis. Tools provided by major cloud providers offer insights into usage patterns, allowing you to identify underutilized resources or inefficient configurations. Implementing right-sizing strategies—matching resource capacity to actual demand—is a powerful way to reduce unnecessary expenditure. This often involves analyzing CPU, memory, and network usage to scale services appropriately, preventing both over-provisioning and performance bottlenecks.
                     <strong className="text-primary dark:text-white">
                       Automated scaling
                     </strong>
                     can further enhance efficiency by dynamically adjusting resources based on real-time traffic or workload requirements. Regularly reviewing and optimizing your cloud environment is essential for long-term savings.
                   </p>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Beyond basic resource management, consider leveraging **discount models** offered by cloud providers. Reserved Instances (RIs) or Savings Plans can provide significant cost reductions for consistent workloads over a longer term, often offering discounts of up to 70% compared to on-demand pricing. Additionally,
+                    Beyond basic resource management, consider leveraging discount models offered by cloud providers. Reserved Instances (RIs) or Savings Plans can provide significant cost reductions for consistent workloads over a longer term, often offering discounts of up to 70% compared to on-demand pricing. Additionally,
                     <span className="text-primary underline dark:text-white">
                       implementing tagging strategies
                     </span>
@@ -137,21 +137,21 @@ const BlogDetailsPage = () => {
                   </p>
                   <ul className="text-body-color mb-10 list-inside list-disc">
                     <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      **Rightsizing:** Ensuring resources match demand, preventing over-provisioning.
+                      Rightsizing: Ensuring resources match demand, preventing over-provisioning.
                     </li>
                     <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      **Automated Scaling:** Dynamically adjusting resources to meet workload fluctuations.
+                      Automated Scaling: Dynamically adjusting resources to meet workload fluctuations.
                     </li>
                     <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      **Reserved Instances/Savings Plans:** Committing to usage for significant discounts.
+                      Reserved Instances/Savings Plans: Committing to usage for significant discounts.
                     </li>
                     <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
-                      **Cost Monitoring Tools:** Utilizing dashboards and reports for spend visibility.
+                      Cost Monitoring Tools: Utilizing dashboards and reports for spend visibility.
                     </li>
                   </ul>
                   <div className="bg-primary/10 relative z-10 mb-10 overflow-hidden rounded-md p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-body-color text-center text-base font-medium italic">
-                      "Effective cloud cost optimization isn't just about saving money; it's about making your cloud strategy more efficient, agile, and aligned with your business goals."
+                      &#34;Effective cloud cost optimization isn&#39;t just about saving money; it&#39;s about making your cloud strategy more efficient, agile, and aligned with your business goals.&#34;
                     </p>
                     <span className="absolute top-0 left-0 z-[-1]">
                       <svg
