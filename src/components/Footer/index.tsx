@@ -208,7 +208,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="hover:text-primary"
               >
-                Neostroph
+                Sahnoune Aya
               </a>
             </p>
           </div>
